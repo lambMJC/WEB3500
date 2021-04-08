@@ -5,4 +5,4 @@
 
 #Github is a great way to connect developers together and code together on a single piece of code.
 
-#You might think there might be some issues with others injectiong codes, well they have a solve for that issue. If someone messes up the code and/or changes something that shouldn't be changed, Github allows you to roll back different uploads of the code to get what you lost, so you dont have to do it all over again. 
+#You might think there might be some issues with others injectiong codes, well they have a solve for that issue. If someone messes up the code and/or changes #something that shouldn't be changed, Github allows you to roll back different uploads of the code to get what you lost, so you dont have to do it all over again. 
