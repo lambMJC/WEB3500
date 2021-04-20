@@ -1,7 +1,7 @@
 # WEB3500
 explaining github
 
-github is best described as a code hosting website that allows people to view and help with your code. It also allows you to let certain people connect to your code, download it, make changes, and send it back to the repository.
+github is best described as a code hosting website that allows people to view and help with your code. It also allows you to let certain people connect to your code, download it, make changes, and send it back to the repository with "commits".
 
 Github is a great way to connect developers together and code together on a single piece of code.
 
